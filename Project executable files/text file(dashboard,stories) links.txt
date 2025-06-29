@@ -1,0 +1,38 @@
+Project Title: Visualizing Housing Market Trends
+Internship: SmartBridge
+
+Tableau Public Link (Dashboard):
+https://public.tableau.com/app/profile/bindu.bhargavi.nimmala/viz/dashboard_17510996121210/Comprehensivehousepriceanalysis?publish=yes
+
+Tableau Public Link (Stories):
+story 1:https://public.tableau.com/app/profile/bindu.bhargavi.nimmala/viz/stories_17510997946380/Story1?publish=yes
+story 2:https://public.tableau.com/app/profile/bindu.bhargavi.nimmala/viz/stories_17510997946380/Story2?publish=yes
+story 3:https://public.tableau.com/app/profile/bindu.bhargavi.nimmala/viz/stories_17510997946380/Story3?publish=yes
+ 
+no.of unique visualizations:
+
+link 1:https://public.tableau.com/app/profile/sravanthi.boreddy/viz/uniquevisualisation-11/Sheet1?publish=yes
+link 2:https://public.tableau.com/app/profile/sravanthi.boreddy/viz/uniquevisualisation-21/Sheet3?publish=yes
+link 3:https://public.tableau.com/app/profile/sravanthi.boreddy/viz/uniquevisualisation-31/Sheet4?publish=yes
+link 4:https://public.tableau.com/app/profile/sravanthi.boreddy/viz/uniquevisualisation-41/Sheet5?publish=yes
+link 5:https://public.tableau.com/app/profile/sravanthi.boreddy/viz/uniquevisualisation-51/Sheet6?publish=yes
+link 6:https://public.tableau.com/app/profile/sravanthi.boreddy/viz/uniquevisualisation-61/Sheet8?publish=yes
+
+
+visualizations:
+
+link 1:https://public.tableau.com/app/profile/bindu.bhargavi.nimmala/viz/dashboard_17510996121210/sheet1?publish=yes
+link 2:https://public.tableau.com/app/profile/bindu.bhargavi.nimmala/viz/dashboard_17510996121210/Sheet2?publish=yes
+link 3:https://public.tableau.com/app/profile/bindu.bhargavi.nimmala/viz/dashboard_17510996121210/Sheet3?publish=yes
+link 4:https://public.tableau.com/app/profile/bindu.bhargavi.nimmala/viz/dashboard_17510996121210/Sheet4?publish=yes
+
+Created By: 
+sravanthi
+Bindu Bhargavi
+tejaswini
+chandrasekhar
+
+Team ID: LTVIP2025TMID50159
+Date: 27 June 2025
+
+This file contains the official Tableau Public links for the final dashboards and stories created as part of the internship project.
